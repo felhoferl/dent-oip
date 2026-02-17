@@ -1,5 +1,5 @@
-Dental – Technical Framework Supplement – Orthodontic Imaging Profile (OIP) – Trial Implementation
-==================================================================================================
+TBD - ADD NEW TITLE – Orthodontic Imaging Profile (OIP)
+=======================================================
 
 `DOCX <https://github.com/open-ortho/dent-oip/releases/download/RELEASE_TAG_PLACEHOLDER/DENT-OIP-RELEASE_TAG_PLACEHOLDER.docx>`__ | `PDF <https://github.com/open-ortho/dent-oip/releases/download/RELEASE_TAG_PLACEHOLDER/DENT-OIP-RELEASE_TAG_PLACEHOLDER.pdf>`__
 
